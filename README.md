@@ -2,6 +2,8 @@
 
 A full-stack flashcard study app for creating decks, reviewing cards, and tracking learning progress. The React interface communicates with an Express API backed by SQLite.
 
+![Flashcard Generator dashboard](assets/dashboard.png)
+
 ## Features
 
 - Register, sign in, sign out, or continue in guest mode
